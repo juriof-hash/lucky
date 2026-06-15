@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Roulette",
+  "description": "An interactive, customizable lucky roulette wheel for fun decision making.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
